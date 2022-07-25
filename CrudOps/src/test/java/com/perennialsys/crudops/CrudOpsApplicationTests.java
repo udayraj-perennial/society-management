@@ -1,4 +1,4 @@
-package com.example.crudops;
+package com.perennialsys.crudops;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
